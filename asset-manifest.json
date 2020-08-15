@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/inspiringquotes/static/css/main.4a7d8c04.chunk.css",
+    "main.js": "/inspiringquotes/static/js/main.575e1b67.chunk.js",
+    "main.js.map": "/inspiringquotes/static/js/main.575e1b67.chunk.js.map",
+    "runtime-main.js": "/inspiringquotes/static/js/runtime-main.b0a10666.js",
+    "runtime-main.js.map": "/inspiringquotes/static/js/runtime-main.b0a10666.js.map",
+    "static/css/2.ae672d60.chunk.css": "/inspiringquotes/static/css/2.ae672d60.chunk.css",
+    "static/js/2.d0742ab1.chunk.js": "/inspiringquotes/static/js/2.d0742ab1.chunk.js",
+    "static/js/2.d0742ab1.chunk.js.map": "/inspiringquotes/static/js/2.d0742ab1.chunk.js.map",
+    "index.html": "/inspiringquotes/index.html",
+    "precache-manifest.e438419b3a023d56e9bd6eef4cf2b86a.js": "/inspiringquotes/precache-manifest.e438419b3a023d56e9bd6eef4cf2b86a.js",
+    "service-worker.js": "/inspiringquotes/service-worker.js",
+    "static/css/2.ae672d60.chunk.css.map": "/inspiringquotes/static/css/2.ae672d60.chunk.css.map",
+    "static/css/main.4a7d8c04.chunk.css.map": "/inspiringquotes/static/css/main.4a7d8c04.chunk.css.map",
+    "static/js/2.d0742ab1.chunk.js.LICENSE.txt": "/inspiringquotes/static/js/2.d0742ab1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/inspiringquotes/static/media/icons-20.cef8cdbb.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a10666.js",
+    "static/css/2.ae672d60.chunk.css",
+    "static/js/2.d0742ab1.chunk.js",
+    "static/css/main.4a7d8c04.chunk.css",
+    "static/js/main.575e1b67.chunk.js"
+  ]
+}
