@@ -13,4 +13,4 @@ This App is part of the final projects in the [FreeCodeCamp](https://www.freecod
 1. When the _Twitter_ button is clicked, user is redirected to Twitter and is able to share the quote and the author. 
 
 ## 📝 License
-__Mark Up!__ is under _MIT License_. You can read the full license file [here](LICENSE).
+__Inspiring Quotes__ is under _MIT License_. You can read the full license file [here](LICENSE).
